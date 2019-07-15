@@ -1,4 +1,4 @@
-# de-voetgangerskaart
+# De Voetgangerskaart
 Actuele gegevens over voetgangers.
 
 ## toelichting
